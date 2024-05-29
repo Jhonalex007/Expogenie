@@ -1,1 +1,1 @@
-# Expogenie
+ExpoGenie is a simple, modern and affordable event software (  <a href="https://expo-genie.com/" target="_blank">Expo Software</a> ) that saves planners time and delivers an enhanced experience for exhibitors. ExpoGenie eliminates dozens of wasted hours of “re-work” for event planners who are managing a trade show or expo. Ready to cut your email time in half? Fill out the contact form to learn more about how you can put ExpoGenie to work for you in less than a week. # Expogenie
